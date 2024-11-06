@@ -1,0 +1,12 @@
+@use "sass:color";
+
+$color__dgreen: #284010;
+$color__green: #59733F;
+$color__lgreen: #A7BF8F;
+$color__brown: #735439;
+$color__pink: #F2D5C4;
+$color__white: #ffffff;
+$color__block: #000000;
+
+$color__background: #F2D5C4;
+$color__link-hover: lighten($color__green, 15%);
